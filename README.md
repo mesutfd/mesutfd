@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 ## ✨ About me:
-I'm a Python developer🐍
+Python/Django Developer
+C3/ASP .NET Core
+
 - 📚 Willing to continuously learn and stay in sync with the ever-evolving industry. 
 - 👯‍♀️ Collaborating with fellow developers on exciting projects is something I genuinely enjoy. 
 - 🌱 When I'm not coding, I also enjoy exploring the outdoors and reading books.
@@ -23,7 +25,8 @@ I'm a Python developer🐍
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![C#]([https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white](https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png))
+![C#](https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET-Core-%235C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
 ## 🌎 Social:
