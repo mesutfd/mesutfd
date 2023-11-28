@@ -1,6 +1,8 @@
-## ✨ About me:
+## About me:
 Developer.
 
+
+  
   
 
 ## Python
