@@ -26,7 +26,16 @@ Multistack Developer.
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-%235C2D91?style=for-the-badge&logo=entity-framework&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%235C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-%235C2D91?style=for-the-badge&logo=linq&logoColor=white)
-![Razor](https://img.shields.io/badge/Razor-%235C2D91?style=for-the-badge&logo=razor&logoColor=white)
+
+
+
+## Go
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Goroutines](https://img.shields.io/badge/Goroutines-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-%2365C2C1.svg?style=for-the-badge&logo=go&logoColor=white)
+![Go Modules](https://img.shields.io/badge/Go_Modules-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Go Concurrency](https://img.shields.io/badge/Concurrency-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 
