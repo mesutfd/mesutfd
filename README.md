@@ -29,7 +29,7 @@ Multistack Developer.
 
 
 
-## Go
+## Golang
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Goroutines](https://img.shields.io/badge/Goroutines-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
